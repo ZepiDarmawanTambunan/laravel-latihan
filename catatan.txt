@@ -1,0 +1,12 @@
+- laravel new
+- type: none
+- php artisan migrate
+- npm install && npm run dev
+
+- composer require laravel/breeze --dev
+- php artisan breeze:install
+- use blade:alpinejs
+- php artisan migrate
+- npm install && npm run dev
+
+- composer run dev
